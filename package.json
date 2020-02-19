@@ -1,0 +1,16 @@
+{
+  "name": "mars-rover",
+  "version": "0.0.0",
+  "description": "Mars rover thingy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Hugo Jobling <hello@thisishugo.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1"
+  }
+}
